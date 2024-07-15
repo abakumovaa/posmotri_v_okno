@@ -53,7 +53,7 @@ ol {
   flex-direction: row;
   gap: 30px;
   align-items: end;
-  padding: 133px 30px; /* 266? */
+  padding: 266px 30px; /* */
 }
 
 .content__list {
