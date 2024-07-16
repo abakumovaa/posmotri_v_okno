@@ -238,6 +238,7 @@ ol {
 
 .more-button {
   inline-size: 399px;
+  margin: 2px;
 }
 
 .result__video-container {
